@@ -76,7 +76,6 @@ Print the following shape:
 ```text
 *****
 *   *
-*   *
 *****
 ```
 
